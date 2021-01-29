@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Robin Kim</title>
+	<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+	<div class="main">
+		<div class="glass">
+			<div class="dashboard">
+				<div class="user">
+					<img src="https://static.wikia.nocookie.net/animalcrossing/images/8/85/Robin_NH.png/revision/latest/scale-to-width-down/250?cb=20200802081700" alt="">
+					<h2>Robin Kim</h2>
+				</div>
+				<a href="https://www.linkedin.com/in/robin-kim-b5365a11a">
+					<div class="social" >
+						<img src="./images/linkedin.png" alt="">
+						<h2>LinkedIn</h2>
+					</div>
+				</a>
+				<a href="https://www.github.com/Kim-Robin">
+					<div class="social">
+						<img src="./images/github-logo.png" alt="">
+						<h2>Github</h2>
+					</div>
+				</a>
+				<a href="mailto:robin1265@gmail.com">
+					<div class="social">
+						<img src="./images/email.png" alt="">
+						<h2>Email</h2>
+					</div>
+				</a>
+			</div>
+			<div class="infoboard">
+				<div class="info-wrapper">
+					<h2>Projects</h2>
+					<div class="projects">
+						<a class="app" href="">
+							<h3>Discord Bot</h3>
+						</a>
+						<a class="app" href="">
+							<h3>Art Gallery</h3>
+						</a>
+						<a class="app" href="">
+							<h3>Memory Game</h3>
+						</a>
+						<a class="app">
+							<h3>Discord Bot</h3>
+						</a>
+					</div>
+				</div>
+				<div class="info-wrapper">
+					<h2>Languages</h2>
+					<div class="programming-language">
+						<a class="language">
+							<h3>Java</h3>
+						</a>
+						<a class="language">
+							<h3>Javascript</h3>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="object1"></div>
+	<div class="object2"></div>
+	<div class="object3"></div>
+</body>
+</html>
